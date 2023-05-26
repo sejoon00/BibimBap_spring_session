@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bibimbab.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bibimbab.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.springboot.bibimbab.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.springboot.bibimbab.main.iml" />
     </modules>
   </component>
 </project>
