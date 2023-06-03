@@ -1,2 +1,1 @@
-/application-oauth.yml
-/application.properties
+src/main/resources/application-oauth.yml
