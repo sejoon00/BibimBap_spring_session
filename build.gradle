@@ -15,9 +15,9 @@ repositories {
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
-    implementation("org.springframework.boot:spring-boot-starter-oauth2-client")
+    implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
+    implementation 'org.springframework.boot:spring-boot-starter-mustache'
 
-    implementation 'jakarta.platform:jakarta.jakartaee-api:9.1.0'
     implementation 'org.eclipse.persistence:eclipselink:4.0.1'
     implementation 'org.hibernate.validator:hibernate-validator:7.0.1.Final'
 
