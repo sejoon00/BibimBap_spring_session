@@ -1,10 +1,7 @@
 
 # 🎉 Introduce
----
-</br></br>
-## 📙 참고 교재
 <p align="center">
-  ![image](https://github.com/sejoon00/BibimBap_spring_session/assets/74056843/f491f5b2-4573-42f2-9cf1-9f623ba77a1f)
+  <img width="1130" alt="image" src="https://github.com/sejoon00/BibimBap_spring_session/assets/74056843/f491f5b2-4573-42f2-9cf1-9f623ba77a1f">
 </p>
 
 ** 대상 : 스프링부트 입문자**
