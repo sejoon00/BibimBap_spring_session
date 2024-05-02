@@ -1,13 +1,13 @@
 
 # 🎉 Introduce
-
 ---
+</br></br>
+## 📙 참고 교재
+<p align="center">
+  ![image](https://github.com/sejoon00/BibimBap_spring_session/assets/74056843/f491f5b2-4573-42f2-9cf1-9f623ba77a1f)
+</p>
 
-![참고 교재](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/140c711d-b538-4696-a281-0014ba14a575/Untitled.png)
-
-참고 교재
-
-**대상 : 스프링부트 입문자**
+** 대상 : 스프링부트 입문자**
 
 - Spring 너무 배울게 많고 뭐 부터 해야될지 모르겠다!
 - 백엔드로 팀프로젝트, 과제, 졸프에서 기여하고 싶은데  Spring Boot로 하고 싶다!
